@@ -2,34 +2,32 @@
 
 Este repositorio contiene los informes de análisis de datos generados con Python utilizando Jupyter Notebook.
 
-## Informe 1: Análisis de Velocidades de Internet en Provincias
+## Informe 1: Análisis del Acceso a Internet en Argentina
 
-El informe "Análisis de Velocidades de Internet en Provincias" analiza las velocidades de bajada promedio de Internet en las provincias de Buenos Aires, Capital Federal, Córdoba y Santa Fe. El informe incluye un gráfico de barras que muestra las velocidades promedio en cada provincia.
+El informe "Análisis del Acceso a Internet en Argentina" se centra en el estudio del acceso a Internet en diferentes provincias y períodos de tiempo. El informe incluye análisis de datos relacionados con el promedio de accesos por provincia, distribución de accesos por trimestre, evolución de los accesos a lo largo de los años, adopción de tecnologías de Internet en ciudades importantes y velocidad de bajada en diferentes provincias.
 
-## Informe 2: Análisis de Ingresos Totales
+## Informe 2: Análisis de Ingresos y Tasa de Crecimiento
 
-El informe "Análisis de Ingresos Totales" examina los ingresos totales en miles de pesos a lo largo de varios años. Se presenta un gráfico de barras que muestra los ingresos totales por año.
-
-## Informe 3: Análisis de Tasa de Crecimiento de Ingresos
-
-El informe "Análisis de Tasa de Crecimiento de Ingresos" calcula la tasa de crecimiento anual promedio de los ingresos. Se utiliza el dataset de ingresos en miles de pesos para calcular la tasa de crecimiento y se muestra el resultado.
+El informe "Análisis de Ingresos y Tasa de Crecimiento" examina los ingresos totales en el sector de servicios de Internet en Argentina a lo largo de varios años. Se presenta un análisis de los ingresos totales por año, así como la tasa de crecimiento promedio de los ingresos.
 
 ## Conclusiones Generales
 
-Después de analizar los informes anteriores, se pueden destacar las siguientes conclusiones:
+Después de realizar los análisis exploratorios de datos, se pueden destacar las siguientes conclusiones:
 
-1. En el informe de "Análisis de Velocidades de Internet en Provincias", se observa que la provincia con la velocidad de bajada promedio más alta es Capital Federal, seguida de Buenos Aires, Córdoba y Santa Fe.
-2. En el informe de "Análisis de Ingresos Totales", se visualiza un aumento en los ingresos totales a lo largo de los años, con un crecimiento notable a partir del año 2020.
-3. Según el informe de "Análisis de Tasa de Crecimiento de Ingresos", se ha calculado una tasa de crecimiento anual promedio de los ingresos. Esta tasa muestra el promedio de crecimiento porcentual de los ingresos a lo largo de los años.
+1. El acceso a Internet en Argentina muestra una notable variabilidad entre provincias. La provincia de "Capital Federal" se destaca como la de mayor promedio de accesos por año, seguida de otras provincias como "Buenos Aires", "Córdoba" y "Santa Fe".
+2. La evolución de los accesos a Internet por cada 100 hogares muestra una tendencia ascendente a lo largo de los años, indicando un crecimiento acelerado y una mayor adopción de tecnologías de Internet en los hogares.
+3. El análisis de las tecnologías de Internet en ciudades importantes revela diferencias en la adopción de diferentes tecnologías, como ADSL, Cablemodem, Fibra óptica y Wireless, entre las ciudades analizadas. Estas disparidades pueden estar relacionadas con la infraestructura de telecomunicaciones y el nivel de desarrollo tecnológico en cada ciudad.
+4. La velocidad de bajada de Internet varía entre provincias, siendo "Capital Federal" la provincia con la velocidad máxima registrada y "Tierra del Fuego" la provincia con la velocidad mínima registrada.
+5. Los ingresos totales en el sector de servicios de Internet en Argentina muestran un crecimiento a lo largo de los años, con un aumento significativo a partir del año 2020. La tasa de crecimiento promedio de los ingresos refuerza esta tendencia positiva.
 
-Estos informes proporcionan una visión general de los datos analizados y brindan información importante sobre las velocidades de internet, los ingresos totales y la tasa de crecimiento de ingresos. Los scripts en Python utilizados para generar los informes se encuentran en el repositorio.
+Estos informes proporcionan una visión general de los datos analizados y brindan información importante sobre el acceso a Internet, los ingresos totales y la tasa de crecimiento en el sector de servicios de Internet en Argentina. Los scripts en Python utilizados para generar los informes se encuentran en el repositorio.
 
 ## Requisitos
 
-- Python 3
-- Jupyter Notebook
-- Pandas
-- Matplotlib
+* Python 3
+* Jupyter Notebook
+* Pandas
+* Matplotlib
 
 ## Cómo utilizar
 
