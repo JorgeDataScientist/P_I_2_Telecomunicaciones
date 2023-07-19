@@ -6,9 +6,13 @@ Este repositorio contiene los informes de análisis de datos generados con Pytho
 
 El informe "Análisis del Acceso a Internet en Argentina" se centra en el estudio del acceso a Internet en diferentes provincias y períodos de tiempo. El informe incluye análisis de datos relacionados con el promedio de accesos por provincia, distribución de accesos por trimestre, evolución de los accesos a lo largo de los años, adopción de tecnologías de Internet en ciudades importantes y velocidad de bajada en diferentes provincias.
 
+![1689728750702](image/README/1689728750702.png)
+
 ## Informe 2: Análisis de Ingresos y Tasa de Crecimiento
 
 El informe "Análisis de Ingresos y Tasa de Crecimiento" examina los ingresos totales en el sector de servicios de Internet en Argentina a lo largo de varios años. Se presenta un análisis de los ingresos totales por año, así como la tasa de crecimiento promedio de los ingresos.
+
+![1689728809851](image/README/1689728809851.png)
 
 ## Conclusiones Generales
 
@@ -21,6 +25,9 @@ Después de realizar los análisis exploratorios de datos, se pueden destacar la
 5. Los ingresos totales en el sector de servicios de Internet en Argentina muestran un crecimiento a lo largo de los años, con un aumento significativo a partir del año 2020. La tasa de crecimiento promedio de los ingresos refuerza esta tendencia positiva.
 
 Estos informes proporcionan una visión general de los datos analizados y brindan información importante sobre el acceso a Internet, los ingresos totales y la tasa de crecimiento en el sector de servicios de Internet en Argentina. Los scripts en Python utilizados para generar los informes se encuentran en el repositorio.
+
+![1689728842650](image/README/1689728842650.png)
+
 
 ## Requisitos
 
